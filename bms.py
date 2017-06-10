@@ -4,7 +4,8 @@ import time
 import yagmail
 
 
-book_my_show_url = "https://in.bookmyshow.com/buytickets/the-mummy-3d-chennai/movie-chen-ET00050002-MT/20170611"    #change this url according to your movie
+book_my_show_url = "https://in.bookmyshow.com/buytickets/the-mummy-3d-chennai/movie-chen-ET00050002-MT/20170611"    
+#change this url according to your movie
 
 sender_email = raw_input("Enter your email address to send mail : ")
 
